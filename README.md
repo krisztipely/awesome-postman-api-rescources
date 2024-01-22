@@ -15,3 +15,5 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [Video course notes](https://github.com/vdespa/introduction-to-postman-course/blob/main/course-notes.md)
 
 [Advanced scripting](https://www.softwaretestinghelp.com/postman-advanced-scripting/ )
+
+[Swagger UI](https://swagger.io/tools/swagger-ui/)
