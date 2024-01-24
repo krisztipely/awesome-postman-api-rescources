@@ -17,3 +17,5 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [Advanced scripting](https://www.softwaretestinghelp.com/postman-advanced-scripting/ )
 
 [Swagger UI](https://swagger.io/tools/swagger-ui/)
+
+[Soap UI](https://www.guru99.com/soapui-tutorial.html)
