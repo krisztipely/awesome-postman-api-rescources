@@ -19,3 +19,9 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [Swagger UI](https://swagger.io/tools/swagger-ui/)
 
 [Soap UI](https://www.guru99.com/soapui-tutorial.html)
+
+## Learning materials in Hungarian
+
+[API testing youtube](https://www.youtube.com/watch?v=hvSlWnLiK_U&list=PLimzEeSv6f4Vk6cXGpoGU2ZhNcyI5rzTp&index=3)
+
+[Second part](https://www.youtube.com/watch?v=tlUmD5qTkCg&list=PLimzEeSv6f4Vk6cXGpoGU2ZhNcyI5rzTp&index=3)
